@@ -1,37 +1,27 @@
-# 👋 Ohayo, Zubisheku desu!
+# <p align="center">👋 Ohayo, Zubisheku desu!</p>
 
-Hey, **myrame** here. I'm glad to welcome you on my [Github](https://github.com/justmyrame).
+Hey, my name is Zbigniew (_but everybody calls me **myrame**_), I'm 20 years old and I live in Poland. I graduated high school majoring in computer science in 2022. I work on random projects in my free time.
 
-## About Me
+## <p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,figma,webflow,tailwind,svelte,cloudflare,discord,linkedin,twitter)](https://skillicons.dev)</p>
 
-Hey, my name is Zbigniew (_but everybody calls me **myrame**_), I'm 20 years old and I live in Poland. I graduated high school majoring in computer science in 2022.
-
-I'm passionate in writing websites. I'm specialize mostly in front-end (`Svelte`, `TailwindCSS`, `React`), but i have some experience in back-end (`Node.JS/Express`, `Docker`).
-
-## Projects
-
-I working currently on some projects:
+I'm working currently on some projects:
 
 - [AniNEWS](https://aninews.pl) - Website where you can read news from the world of Anime, Manga and VTubers. <br>_`!` (Website targeted to Polish audience)_
 
 ## Setup
 
-| Hardware    | Item                           |
-| ----------- | ------------------------------ |
-| CPU         | AMD Ryzen 2700x                |
-| GPU         | KFA2 GTX 1660 Super            |
-| Motherboard | ASRock B450 Steel Legend       |
-| RAM         | ADATA XPG Spectrix D41 (2x8GB) |
-| SSD         | Patriot P300 M.2 (256GB)       |
-| Storage     | Multiple 2.5" HDD (2TB)        |
+<p align="center">
 
-| Accessories | Item                         |
-| ----------- | ---------------------------- |
-| Monitor #1  | DELL S2240L (21,5")          |
-| Monitor #2  | Philips 243V7QDAB/00 (23,5") |
-| Mouse       | Roccat Burst Core (White)    |
-| Keyboard    | Steelseries Apex 3           |
-| Microphone  | DNA DNC-1U (USB)             |
+| Hardware    |                                | Accessories |                              |
+| ----------- | ------------------------------ | ----------- | ---------------------------- |
+| CPU         | AMD Ryzen 2700x                | Monitor #1  | DELL S2240L (21,5")          |
+| GPU         | KFA2 GTX 1660 Super            | Monitor #2  | Philips 243V7QDAB/00 (23,5") |
+| Motherboard | ASRock B450 Steel Legend       | Mouse       | Roccat Burst Core (White)    |
+| RAM         | ADATA XPG Spectrix D41 (2x8GB) | Keyboard    | Steelseries Apex 3           |
+| SSD         | Patriot P300 M.2 (256GB)       | Microphone  | DNA DNC-1U (USB)             |
+| Storage     | Multiple 2.5" HDD (2TB)        |             |                              |
+
+</p>
 
 ## My Discord Account
 
