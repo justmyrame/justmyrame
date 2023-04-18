@@ -12,14 +12,14 @@ I'm working currently on some projects:
 
 <p align="center">
 
-| Hardware    |                                | Accessories |                              |
-| ----------- | ------------------------------ | ----------- | ---------------------------- |
-| CPU         | AMD Ryzen 2700x                | Monitor #1  | DELL S2240L (21,5")          |
-| GPU         | KFA2 GTX 1660 Super            | Monitor #2  | Philips 243V7QDAB/00 (23,5") |
-| Motherboard | ASRock B450 Steel Legend       | Mouse       | Roccat Burst Core (White)    |
-| RAM         | ADATA XPG Spectrix D41 (2x8GB) | Keyboard    | Steelseries Apex 3           |
-| SSD         | Patriot P300 M.2 (256GB)       | Microphone  | DNA DNC-1U (USB)             |
-| Storage     | Multiple 2.5" HDD (2TB)        |             |                              |
+| Hardware    |                                | Accessories |                                    |
+| ----------- | ------------------------------ | ----------- | ---------------------------------- |
+| CPU         | AMD Ryzen 2700x                | Monitor #1  | DELL S2240L (21,5")                |
+| GPU         | KFA2 GTX 1660 Super            | Monitor #2  | Philips 243V7QDAB/00 (23,5")       |
+| Motherboard | ASRock B450 Steel Legend       | Mouse       | Roccat Burst Core (White)          |
+| RAM         | ADATA XPG Spectrix D41 (2x8GB) | Keyboard    | Motospeed CK107 White (Outemu Red) |
+| SSD         | Patriot P300 M.2 (256GB)       | Microphone  | DNA DNC-1U (USB)                   |
+| Storage     | Multiple 2.5" HDD (2TB)        | Headphones  | Razer Kraken (Black)               |
 
 </p>
 
