@@ -1,12 +1,12 @@
 # <p align="center">👋 Ohayo, Zubisheku desu!</p>
 
-Hey, my name is Zbigniew (_but everybody calls me **myrame**_), I'm 20 years old and I live in Poland. I graduated high school majoring in computer science in 2022. I work on random projects in my free time.
+Hey, my name is Zbigniew (_but everybody calls me **myrame**_), I'm 21 years old and I live in Poland. I graduated high school majoring in computer science in 2022. I work on random projects in my free time.
 
 ## <p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,figma,webflow,tailwind,svelte,cloudflare,discord,linkedin,twitter)](https://skillicons.dev)</p>
 
 I'm working currently on some projects:
 
-- [AniNEWS](https://aninews.pl) - Website where you can read news from the world of Anime, Manga and VTubers. <br>_`!` (Website targeted to Polish audience)_
+- [Manzoku](https://manzoku.pl) - Website where you can read news from the world of Anime, Manga and VTubers. <br>_`!` (Website targeted to Polish audience)_
 
 ## Setup
 
